@@ -162,3 +162,16 @@ Common errors:
 - Maximum text length: ~120,000 characters per request
 - Rate limits apply (Cloudflare Workers limits)
 - First request may have initialization delay (1-2 minutes)
+
+
+## 🔗 Related Links
+
+- [GitHub Project](https://github.com/samni728/edgetts-cloudflare-workers-webui)
+- [Edge TTS Voice List](https://learn.microsoft.com/azure/ai-services/speech-service/language-support?tabs=tts#multilingual-voices)
+
+## ⚖️ Usage Statement
+
+- This service is built on Microsoft Edge TTS technology and provides text-to-speech functionality.
+- Please comply with all applicable laws and regulations. Do not use this service for illegal purposes.
+- By using this service, you agree to the relevant terms and conditions.
+- If needed, you may refer to the backend project and deploy the backend service on Cloudflare by yourself.
